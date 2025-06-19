@@ -83,6 +83,6 @@ The dataset includes detailed eCommerce order-level information such as:
 ## 🔗 Project Link
 
 You can explore this project on GitHub here:  
-*[🔗 GitHub Repository URL](#)* (Replace with your actual link after uploading)
+*[🔗 Amazon eCommerce Sales Dashboard](https://github.com/mohitgoyal-946/Amazon-Ecommerce-Sales-Dashboard)* 
 
 ---
