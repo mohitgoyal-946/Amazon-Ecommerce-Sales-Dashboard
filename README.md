@@ -66,6 +66,7 @@ The dataset includes detailed eCommerce order-level information such as:
 
 ## 📁 Files Included
 
+- Amazon Sales Raw.zip → Original dataset (compressed due to file size)
 - Amazon Sales Cleaned.csv → Cleaned dataset used in Power BI
 - Amazon Dashboard.pbix → Power BI project file
 - Dashboard_Screenshots/ → Screenshots of all 3 dashboard pages
